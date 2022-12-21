@@ -6,5 +6,5 @@
 ## 목차 <small>(1회차)</small>
 - [x] 1. Dart #1 기본기
 - [x] 2. Dart #2 OOP
-- [ ] 3. Dart #3 Functional programming
+- [x] 3. Dart #3 Functional programming
 - [ ] 4. Dart #4 Async programming
