@@ -3,7 +3,7 @@
 - 정리: [Dart 언어 4시간만에 완전정복 학습노트](https://www.notion.so/bfca6a94862a46bbba93b29f08947933?v=475ceca4ffa048ebbe968d2cb87b6e0a)
 
 
-## 목차 <small>(1회차)</small>
+## 목차 <sub><sup>2회차</sup></sub>
 - [x] 1. Dart #1 기본기
 - [x] 2. Dart #2 OOP
 - [x] 3. Dart #3 Functional programming
